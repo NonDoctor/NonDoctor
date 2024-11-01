@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NonDoctor/NonDoctor/raw/main/assets/ops.gif" alt="Idi nahyi...">
+  <img src="https://github.com/NonDoctor/NonDoctor/raw/master/assets/ops.gif" alt="Idi nahyi...">
 </p>
 
 
